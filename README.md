@@ -1,4 +1,19 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Stopwatch Timer Application
+A simple and visually appealing stopwatch/timer application built with React Native. This application allows users to track time, record multiple lap intervals, and reset the timer. It features a modern and intuitive user interface with vibrant colors and a dark-themed background for enhanced readability.
+
+
+# Features
+Start/Stop Timer: Start and stop the timer with a single button.
+Lap Recording: Record multiple lap times with the lap button.
+Reset Timer: Reset the timer and clear all lap records.
+User-Friendly Interface: Intuitive and visually appealing design with vibrant colors and a dark theme.
+
+
+# Screenshots
+
+![image](https://github.com/arora-kapil/stopwatch/assets/78464909/d713f74e-cbe7-43d8-8945-b27f8996c7b9)
+![image](https://github.com/arora-kapil/stopwatch/assets/78464909/0194e09a-31a8-4bac-870a-43fc20df8e89)
+
 
 # Getting Started
 
